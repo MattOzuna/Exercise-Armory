@@ -31,10 +31,6 @@ I plan on collecting exercise data from the [exerciseDB](https://rapidapi.com/ju
 ### 3. Exercise Library
 - **View Exercises** Provide a database of exercises with descriptions, images demonstrating proper form.
 
-### 3. Progress Tracking
-- **Graphs and Charts:** Visual representation of progress over time for metrics such as weight lifted, distance run, or body measurements.
-- **Statistics:** Summarize key statistics like total workouts, average duration, total weight lifted, etc.
-
 ### 4. Stretch Goals
 - **Statistics:** Summarize key statistics like total workouts, average duration, total weight lifted, etc.
 - **Goal Management:** Users can set fitness goals (e.g., running a certain distance, lifting a certain weight) and track their progress towards them.
