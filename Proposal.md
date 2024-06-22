@@ -2,7 +2,7 @@
 
 ## Goal
 
-My goal is to create a web application to allow users to access information on different exercises as well as create and track progress for different workouts. 
+My goal is to create a full stack web application to allow users to access information on different exercises as well as create and track progress for different workouts. The target audience of this project will be exercise enthusiasts, who want to be able to get detailed exercise information quickly.
 
 ## Tech Stack
 
@@ -10,6 +10,7 @@ My goal is to create a web application to allow users to access information on d
 - **Backend**: Node.js, Express
 - **Authentication**: Bcrypt
 - **Frontend**: React, Axios
+
 
 ## Data
 
